@@ -4,21 +4,6 @@ email: work@of10.in
 url: https://of10.in
 description: ""
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
-
-# Footer settings
-footer: Of10
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/workof10
-  - title: facebook
-    url: https://facebook.com/workof10
-
 # Build settings
 markdown: kramdown
 permalink: pretty
