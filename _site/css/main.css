@@ -476,8 +476,7 @@ h2 {
 }
 
 .about-content {
-  width: 50%;
-   background-image: url("../images/about-bg.jpg");
+  width: 100%;
   background-position: left bottom;
   background-repeat: no-repeat;
   background-size: cover;
