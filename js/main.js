@@ -37,7 +37,7 @@ jQuery(function($) {'use strict',
 	
 	
 	// Carousel Auto Slide Off
-	$('#event-carousel, #twitter-feed, #sponsor-carousel ').carousel({
+	$('#event-carousel, #sponsor-carousel ').carousel({
 		interval: false
 	});
 
