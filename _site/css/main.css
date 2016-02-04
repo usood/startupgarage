@@ -489,7 +489,7 @@ h2 {
 }
 
 .about-content p {
-  font-size: 17px;
+  font-size: 20px;
   font-family: 'Dosis',sans-serif;
 }
 
@@ -511,7 +511,7 @@ h2 {
 ******Twitter CSS****
 **************************/
 
-#twitter {
+#schedule {
   background-color: #ecedef;
   background-image: url("../images/twitter-bg.jpg");
   background-position: center bottom;
@@ -520,6 +520,7 @@ h2 {
   position: relative;
   padding: 95px 0 90px;
   overflow: hidden;
+  color:#000;
 }
 
 .twit {
