@@ -17,7 +17,6 @@
 		
 		//main countdown function
 		function countdown_proc() {
-			console.log(settings['date']);
 			eventDate = Date.parse(settings['date']) / 1000;
 			console.log(eventDate);
 			currentDate = Math.floor($.now() / 1000);

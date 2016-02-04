@@ -656,7 +656,6 @@ h2 {
 
 .contact-section {
   background-color: #f7ab24;
-  background-image: url("../images/contact-bg.jpg");
   background-position:60% 0;
   background-size:contain;
   background-repeat:no-repeat;  
@@ -738,7 +737,6 @@ h2 {
 
 #footer {
   background-color: #212121;
-  background-image: url("../images/footer-bg.jpg");
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
